@@ -1,4 +1,4 @@
-module github.com/bitquark/shortscan
+module github.com/sealldeveloper/shortscan-temp
 
 go 1.18
 
